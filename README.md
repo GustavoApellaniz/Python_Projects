@@ -16,18 +16,6 @@ Each project folder contains one or more .py files that can be run on their own.
 
 Concepts used: while loop, counter and accumulator, if, custom exception class, try / except and f-strings.
 
-How to run
-Make sure Python 3 is installed:
-bash
-   python3 --version
-Clone the repository:
-bash
-   git clone https://github.com/GustavoApellaniz/programas_testes_realizados.git
-   cd programas_testes_realizados
-Run any program:
-bash
-   python3 path/to/file.py
-   
 Author
 
 Gustavo Fraga Apellaniz GitHub: @GustavoApellaniz
